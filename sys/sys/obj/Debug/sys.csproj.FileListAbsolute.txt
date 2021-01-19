@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\bin\Debug\sys.exe.config
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\bin\Debug\sys.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\bin\Debug\sys.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.Form1.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.signUp.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\sys\sys\obj\Debug\sys.pdb
