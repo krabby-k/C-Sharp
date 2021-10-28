@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\bin\Debug\Database.mdf
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\bin\Debug\Database_log.ldf
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\bin\Debug\NCC.exe.config
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\bin\Debug\NCC.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\bin\Debug\NCC.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.frmSignUp.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\NCC\NCC\obj\Debug\NCC.Login.resources

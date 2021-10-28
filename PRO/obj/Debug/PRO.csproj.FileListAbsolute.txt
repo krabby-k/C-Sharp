@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.SignUp.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\bin\Debug\PRO.exe.config
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\bin\Debug\PRO.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\bin\Debug\PRO.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\PRO\obj\Debug\PRO.CreateSurvey.resources

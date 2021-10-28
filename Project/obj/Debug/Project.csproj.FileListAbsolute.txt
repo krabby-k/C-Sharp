@@ -1,0 +1,12 @@
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\bin\Debug\Database.mdf
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\bin\Debug\Database_log.ldf
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\bin\Debug\Project.exe.config
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\bin\Debug\Project.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\bin\Debug\Project.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.Form1.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\Project\obj\Debug\Project.pdb
