@@ -1,0 +1,17 @@
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\bin\Debug\Db.mdf
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\bin\Debug\Db_log.ldf
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\bin\Debug\Rms.exe.config
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\bin\Debug\Rms.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\bin\Debug\Rms.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.Login.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.signup.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.Welcome.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.exe
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.pdb
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.AdminLog.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.intro.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.welcomeAdmin.resources
