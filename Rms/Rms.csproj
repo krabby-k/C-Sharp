@@ -80,13 +80,32 @@
     <Compile Include="login.Designer.cs">
       <DependentUpon>login.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageBookings.Designer.cs">
+      <DependentUpon>ManageBookings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateReservations.Designer.cs">
+      <DependentUpon>UpdateReservations.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReservationCls.cs" />
     <Compile Include="signup.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="signup.Designer.cs">
       <DependentUpon>signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableReserve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableReserve.Designer.cs">
+      <DependentUpon>TableReserve.cs</DependentUpon>
     </Compile>
     <Compile Include="Users.cs" />
     <Compile Include="Welcome.cs">
@@ -110,6 +129,12 @@
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ManageBookings.resx">
+      <DependentUpon>ManageBookings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateReservations.resx">
+      <DependentUpon>UpdateReservations.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -122,6 +147,9 @@
     </Compile>
     <EmbeddedResource Include="signup.resx">
       <DependentUpon>signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableReserve.resx">
+      <DependentUpon>TableReserve.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Welcome.resx">
       <DependentUpon>Welcome.cs</DependentUpon>

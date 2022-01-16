@@ -34,7 +34,7 @@ namespace Rms
                 {
                     Welcome main = new Welcome();
                     this.Hide();
-                    main.Show();
+                    main.ShowDialog();
                 }
                 else
                 {

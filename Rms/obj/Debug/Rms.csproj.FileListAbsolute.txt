@@ -15,3 +15,6 @@ C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.pdb
 C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.AdminLog.resources
 C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.intro.resources
 C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.welcomeAdmin.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.TableReserve.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.Update_reserve.resources
+C:\Users\brian\source\repos\krabby-k\C-sharp\Rms\obj\Debug\Rms.ManageBookings.resources

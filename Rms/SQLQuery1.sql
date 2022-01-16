@@ -1,0 +1,1 @@
+﻿insert into Review (review) values('it was a great experience'),('The best place to chill out'),('Best Services ever')

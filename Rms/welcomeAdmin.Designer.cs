@@ -64,6 +64,7 @@ namespace Rms
             this.btn_edit.TabIndex = 23;
             this.btn_edit.Text = "Manage Bookings";
             this.btn_edit.UseVisualStyleBackColor = false;
+            this.btn_edit.Click += new System.EventHandler(this.btn_edit_Click);
             // 
             // btn_add
             // 
@@ -78,6 +79,7 @@ namespace Rms
             this.btn_add.TabIndex = 22;
             this.btn_add.Text = "Add Booking";
             this.btn_add.UseVisualStyleBackColor = false;
+            this.btn_add.Click += new System.EventHandler(this.btn_add_Click);
             // 
             // welcomeAdmin
             // 

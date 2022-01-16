@@ -198,7 +198,7 @@ namespace Rms
             this.Controls.Add(this.txt_pass);
             this.Controls.Add(this.txt_user);
             this.Name = "Login";
-            this.Text = "r";
+            this.Text = "Login";
             this.ResumeLayout(false);
             this.PerformLayout();
 
